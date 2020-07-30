@@ -10,7 +10,7 @@ Programa que crea un archivo .txt con el todas las palabras del vocabulario del 
 
 ## diccionario
 
-Programa para hacer consultas a un diccionario sobre las palabras del vocabulario del kindle.
+Programa para hacer consultas a una API del diccionario de wikipedia sobre las palabras del vocabulario del kindle.
 
 ## Tutoriales
 
